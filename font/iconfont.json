@@ -1,0 +1,51 @@
+{
+  "id": "2521871",
+  "name": "LX",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4568441",
+      "name": "留言模板",
+      "font_class": "liuyanmoban",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "5809108",
+      "name": "归档",
+      "font_class": "guidang",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "7646027",
+      "name": "资源 44",
+      "font_class": "ziyuan",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "16376893",
+      "name": "首页",
+      "font_class": "biaoqianA01_shouye-21",
+      "unicode": "ea9f",
+      "unicode_decimal": 60063
+    },
+    {
+      "icon_id": "19657050",
+      "name": "图 片",
+      "font_class": "tupian_huaban1",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "19689765",
+      "name": "搜 索",
+      "font_class": "sousuo_huaban1",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}

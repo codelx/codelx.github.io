@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+/************** 导航栏开始************/
+nav {
+  margin: 0 auto;
+  width: 1536px;
+  min-width: 1536px;
+  border-bottom: 4px dotted rgb(6, 229, 245);
+}
+.nav-typeArea {
+  margin: 0 auto;
+  width: 1190px;
+}
+.nav-top > ul {
+  display: flex;
+  justify-content: flex-end;
+}
+.nav-top > ul > li {
+  margin: 10px 15px;
+  cursor: pointer;
+}
+.nav-top > ul > li > a {
+  text-align: center;
+  color: rgb(6, 229, 245);
+  font-weight: bold;
+}
+.nav-top > ul > li > a > .icon {
+  font-size: 20px;
+}
+.nav-top > ul > li:hover > a {
+  color: hotpink;
+}
+/************** 导航栏结束************/
+
+/************** 头部区域开始************/
+header {
+  margin: 0 auto;
+  width: 1536px;
+  min-width: 1536px;
+  height: 400px;
+  background: url("../images/header.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+/************** 头部区域结束************/
+
+/************** 主体区域开始************/
+.main {
+  margin: 0 auto;
+  width: 1536px;
+  min-width: 1536px;
+  border-top: 4px dotted rgb(6, 229, 245);
+}
+/************** 主体区域结束************/
+
+/************** 底部区域开始************/
+/************** 底部区域结束************/
